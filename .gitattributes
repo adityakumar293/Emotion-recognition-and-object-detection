@@ -1,2 +1,2 @@
-
+*.jupyter notebook liguist-detectable=true
 *.python liguist-detectable=true
