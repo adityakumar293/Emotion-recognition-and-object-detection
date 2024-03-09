@@ -1,2 +1,2 @@
 *.ipynb linguist-documentation
-*.python liguist-documentation=true
+*.python liguist-detectable=true
