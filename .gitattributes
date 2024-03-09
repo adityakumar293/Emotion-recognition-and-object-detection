@@ -1,2 +1,2 @@
-*.ipynb linguist-documentation=false
-*.ipynb liguist-documentation=true
+*.Jupyter Notebook linguist-documentation=false
+*.Python liguist-documentation=true
